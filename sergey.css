@@ -1,0 +1,45 @@
+.cell{
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;;
+
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+
+.a{
+ position: absolute;
+ left: 50px;
+}
+
+.b{
+    position: absolute;
+    left: 50px;
+   }
+
+
+.c{
+    position: absolute;
+    left: 100px;
+   }
+
+   .row{
+    position: relative;
+    top: 0;
+   }
+
+.row1{
+    position: relative;
+    top: 0;
+   }
+
+.row2{
+    position: relative;
+    top: 0;
+   }

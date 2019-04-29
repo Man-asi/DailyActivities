@@ -1,0 +1,328 @@
+.relative{
+   
+    position: relative;
+    width: 816px;
+    height: 510px;
+    border: 1px solid black;
+
+}
+
+.a1{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.a2{
+float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.a3{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.a4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.a5{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.a6{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.a7{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.a8{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+
+
+
+
+/* SEWOND PLATE */
+
+.b1 {
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.b2{
+float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.b3{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.b4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.b5{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.b6{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.b7{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.b8{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+}
+
+
+
+/* third line */
+
+.c1{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.c2{
+float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.c3{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.c4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.c5{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.c6 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.c7{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.c8{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+
+
+/* forth line */
+
+.d1 {
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.d2{
+float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.d3{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.d4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.d5{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.d6{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.d7{
+    background-color: black;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.d8{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+}
+
+
+
+/* fifth line */
+
+
+.e1{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.e2{
+float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.e3{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.e4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.e5{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+
+.e6 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+.e7{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+
+}
+.e8{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    background-color: black;
+}
+
+
