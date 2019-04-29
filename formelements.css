@@ -1,0 +1,104 @@
+* {box-sizing: border-box; 
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ad8dac;
+    background-image: url(tick-305245__340.png);
+    background-repeat: no-repeat;
+    background-size:65%;
+    background-position: center center;
+    
+}
+
+ 
+h1{
+    text-align: center;
+    color:white;
+    font-family: sans-serifsne;
+    text-transform: uppercase;
+    
+   
+}
+
+
+
+input[type=text],input[type=date],select, textarea {
+ width: 100%;
+ padding: 12px;
+ border: 1px solid #ccc;
+ border-radius: 4px;
+ box-sizing: border-box;
+ margin-top: 6px;
+ margin-bottom: 16px;
+ border-radius: 20px; 
+ border-color: black;
+ 
+}
+
+input[type=submit] {
+ background-color: green;
+ padding: 12px 20px;
+ border: none;
+ border-radius: 4px;
+ cursor: pointer;
+ color: white;
+ font-size: 18px;
+ border-radius: 30px;
+}
+
+input[type=submit]:hover {
+ background-color: rgb(177, 126, 177);
+ font-size: 20px;
+ border-radius: 20px;
+ color: white;
+ 
+}
+
+.container {
+ border-radius: 5px;
+ /* background-color: #aa6ba7; */
+ padding: 20px;
+ font-size: 10px;
+ 
+
+}
+
+.container2{
+    color: white;
+}
+
+input,select,textarea{
+   font-size: 15px;
+  opacity: .6;
+   
+   
+}
+
+label{
+    color: white;
+    font-size: 20px
+}
+
+#gender{
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+
+   
+}
+
+
+
+
+@media only screen and (max-width:600px){
+
+    .container, input, textarea, select{
+        width: 100%;
+        
+    }
+
+}
+
